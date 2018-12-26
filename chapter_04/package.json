@@ -1,0 +1,19 @@
+{
+  "name": "chapter_04",
+  "version": "1.0.0",
+  "description": "chapter 04 async.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async.js",
+    "course",
+    "chapter04"
+  ],
+  "author": "Carlos Alberto Rojas",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1"
+  }
+}

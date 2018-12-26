@@ -1,0 +1,16 @@
+{
+  "name": "chapter_03",
+  "version": "1.0.0",
+  "description": "Chapter 03 of Node course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chapter03",
+    "course",
+    "node"
+  ],
+  "author": "Carlos Alberto Rojas",
+  "license": "ISC"
+}
